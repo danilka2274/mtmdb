@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602986355683",
+    "project_id": "mtmdb-4691f",
+    "storage_bucket": "mtmdb-4691f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602986355683:android:a031fb9c8d167981abded6",
+        "android_client_info": {
+          "package_name": "ru.geekbrains.mtmdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkYjdG2G8bzItngqkXFDzcjKOPwsGSivo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
